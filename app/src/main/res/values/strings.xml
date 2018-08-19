@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavAR</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAWRFUKHxnOHkXNDv7GH89DWsKt8f9khTo</string>
+    <string name="name_of_waypoint">Name of Waypoint</string>
+    <string name="waypoint_setting">Waypoint Setting</string>
+    <string name="save">Save</string>
+</resources>
