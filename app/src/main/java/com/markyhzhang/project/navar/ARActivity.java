@@ -52,7 +52,7 @@ public class ARActivity extends AppCompatActivity implements View.OnClickListene
 
         waypointManager.init(this, getSharedPreferences("waypoints", MODE_PRIVATE));
 
-        //TODO add waypoint feature
+        //TODO add waypoint feature ok
 //        waypointManager.preloadAdd("Home",R.layout.arobject_rectangular,-79.445093, 43.915302);
 
         Collection<Waypoint> waypoints = waypointManager.getWaypoints();
