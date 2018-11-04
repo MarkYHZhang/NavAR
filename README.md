@@ -7,11 +7,8 @@ NavAR is a new and easier way of exploring the physical world using modern techn
 3. Making use of GPS data to calculate precise distance
 
 ## Screenshots
-### Main Interface
-![main interface](https://raw.githubusercontent.com/MarkYHZhang/NavAR/master/readmesrc/main.jpg)
-
-### Map Interface
-![map interface](https://raw.githubusercontent.com/MarkYHZhang/NavAR/master/readmesrc/map.jpg)
+### Main Interface and Map Interface
+![main interface](https://raw.githubusercontent.com/MarkYHZhang/NavAR/master/main.jpg) ![map interface](https://raw.githubusercontent.com/MarkYHZhang/NavAR/master/map.jpg)
 
 ## TODO
 1. Better compass calibration
